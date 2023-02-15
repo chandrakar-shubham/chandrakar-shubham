@@ -25,8 +25,11 @@ HackerRank : https://www.hackerrank.com/chandrakar_shub1
 🔭 My Expertise
 
 Data analysis and visualization
+
 Machine learning
+
 Natural language processing
+
 AWS EC2
 
 🌱 I'm currently learning
