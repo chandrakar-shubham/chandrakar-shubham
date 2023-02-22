@@ -22,6 +22,15 @@ LinkedIn: https://www.linkedin.com/in/shubhamchandrakar
 
 HackerRank : https://www.hackerrank.com/chandrakar_shub1
 
+Dashboards:
+
+
+https://user-images.githubusercontent.com/112946683/220730776-f21591f1-5289-435a-bdac-464b656ad92b.mp4
+
+
+
+
+
 🔭 My Expertise
 
 Data analysis and visualization
