@@ -32,6 +32,11 @@ Dashboard 2: Global Terrorism Database Dashboard (Tableau)
 
 https://user-images.githubusercontent.com/112946683/220731497-43e3fb4a-8263-4bf8-9250-52de5e2e2de7.mp4
 
+Dashboard 3: US House Sales Report Dashboard (Power Bi)
+
+![Housesales_dash_PowerBI](https://user-images.githubusercontent.com/112946683/220732506-0be48b14-8a2a-44c7-87e6-eb0e5c899209.png)
+
+
 🔭 My Expertise
 
 Data analysis and visualization
