@@ -24,15 +24,15 @@ HackerRank : https://www.hackerrank.com/chandrakar_shub1
 
 # Dashboards:
 
-Dashboard 1:Super Store Sales Dashboard (Tableau)
+Dashboard 1: Super Store Sales Dashboard || Tableau
 
 https://user-images.githubusercontent.com/112946683/220730776-f21591f1-5289-435a-bdac-464b656ad92b.mp4
 
-Dashboard 2: Global Terrorism Database Dashboard (Tableau)
+Dashboard 2: Global Terrorism Database Dashboard || Tableau
 
 https://user-images.githubusercontent.com/112946683/220731497-43e3fb4a-8263-4bf8-9250-52de5e2e2de7.mp4
 
-Dashboard 3: US House Sales Report Dashboard (Power Bi)
+Dashboard 3: US House Sales Report Dashboard || Power BI
 
 ![Housesales_dash_PowerBI](https://user-images.githubusercontent.com/112946683/220732506-0be48b14-8a2a-44c7-87e6-eb0e5c899209.png)
 
