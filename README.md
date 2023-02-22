@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Shubham Chandrakar 👋 , Full Stack Data Scientist
+### Hi there, I'm Shubham Chandrakar 👋 || Full Stack Data Scientist
 I'm a data science trainee at Almabetter with a passion for exploring data, building models, and finding insights that drive business value. I enjoy using data to solve complex problems and improve processes.
 
 📫 How to reach me
@@ -69,9 +69,7 @@ Excel
 
 Git
 
-Jupyter Notebook
-
-Google Collab
+Google Data Studio
 
 🏆 Achievements
 
